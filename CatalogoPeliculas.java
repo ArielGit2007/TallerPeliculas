@@ -28,6 +28,7 @@ public class CatalogoPeliculas {
 
     public CatalogoPeliculas() {
         precargar();
+        ordenar();
     }
 
     public void ordenar(){
